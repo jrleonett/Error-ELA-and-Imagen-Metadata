@@ -1,7 +1,7 @@
-# Error-ELA-and-Imagen-MetadataImagen
-Este programa es una herramienta de computación forense diseñada para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza técnicas avanzadas como el Error Level Analysis (ELA) para detectar áreas de una imagen que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
+# Análisis de metadatos y Error de ELA en imágenes JPG y PNG
+Este programa es una herramienta de computación forense diseñado para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza la técnica de Error Level Analysis (ELA) para detectar áreas de una imagen que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
 
-El programa es ideal para peritos forenses digitales, analistas de seguridad y cualquier persona interesada en verificar la autenticidad de imágenes digitales.
+Este programa fué desarrollado para peritos forenses digitales, analistas forenses o cualquier persona interesada en verificar la autenticidad de imágenes digitales.
 
 ![image](https://drive.google.com/uc?export=view&id=1Zw_phPfCXatYYoEQS9CRYWPFB48fxTBT)
 
