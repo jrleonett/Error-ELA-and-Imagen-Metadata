@@ -1,4 +1,4 @@
-# Análisis de metadatos y Error de ELA en imágenes JPG y PNG
+# Análisis de metadatos y Error de ELA en imágenes digitales
 Este programa es una herramienta de computación forense diseñado para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza la técnica de Error Level Analysis (ELA) para detectar áreas de una imagen de formatos `.JPG` o `.PNG` que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
 
 Este programa fué desarrollado por **José R. Leonett** para los peritos forenses digitales, analistas forenses o cualquier persona interesada en verificar la autenticidad de imágenes digitales.
@@ -9,7 +9,7 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 
 ----
 
-# Funcionalidades principales
+# Funcionalidades principales.
 
 **01.- Error Level Analysis (ELA):**
 
@@ -34,7 +34,7 @@ Extrae y muestra información detallada de los metadatos de la imagen, como:
 * La imagen original.
 * La imagen con el análisis de ELA.
 ---
-# Cómo usar el programa Configuración del entorno:
+# Cómo usar el programa configuración del entorno:
 * Ejecuta la primera celda del programa para configurar el entorno y crear la carpeta EVIDENCIA.
 * Coloca tu archivo de imagen (`.JPG` o `.PNG`) en la carpeta EVIDENCIA.
 * Ejecuta la segunda celda para procesar la imagen y realizar el análisis de ELA.
@@ -49,15 +49,15 @@ El archivo ZIP incluirá:
    * La imagen con análisis de ELA.
 
 ---
-# Cómo citar este trabajo
+# Cómo citar este trabajo.
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
 @article{joséRLeonett,
-  title={Análisis Error de ELA y Matadatos en Imágenes},
+  title={Análisis Error de ELA y Matadatos en imágenes digitales},
   author={José R. Leonett},
   year={2024}
 }
 ```
 
-**Licencia**
+**Licencia.**
 - Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
