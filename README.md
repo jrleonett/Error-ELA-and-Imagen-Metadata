@@ -52,7 +52,7 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 - 👉 **Pruébalo aquí**: [https://huggingface.co/spaces/leonett/error-ela](https://huggingface.co/spaces/leonett/error-ela)
 
 <p align="center">
-  <img src="https://github.com/jrleonett/Error-ELA-and-Imagen-MetadataImagen/raw/main/congradio02.png"/>
+  <img src="https://github.com/jrleonett/Error-ELA-and-Imagen-Metadata/blob/main/huggifaces.png"/>
 </p>
 
 <p align="center">
