@@ -3,6 +3,8 @@
 ![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 Este programa es una herramienta de computación forense diseñado para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza la técnica de Error Level Analysis (ELA) para detectar áreas de una imagen de formatos `.JPG` o `.PNG` que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
 
@@ -43,18 +45,19 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 * La imagen original.
 * La imagen con el análisis de ELA.
 
-# **Interfaz gráfica con Gradio**.
-* Interfaz amigable para cargar y analizar imágenes.
-* Muestra los resultados del análisis de ELA y metadatos en tiempo real.
-* Genera enlaces públicos para compartir el análisis (usando Gradio y ngrok).
+# **Interfaz gráfica con Gradio en huggingface**
+- Interfaz amigable para cargar y analizar imágenes.
+- Muestra los resultados del análisis de ELA (Error Level Analysis) y metadatos en tiempo real.
+- Disponible en Hugging Face Spaces para uso público.
+- 👉 **Pruébalo aquí**: [https://huggingface.co/spaces/leonett/error-ela](https://huggingface.co/spaces/leonett/error-ela)
 
 <p align="center">
   <img src="https://github.com/jrleonett/Error-ELA-and-Imagen-MetadataImagen/raw/main/congradio02.png"/>
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1R_2gv2seXsYQ5LqTGRXowzZKzUvH2CYM#scrollTo=9c2sZjfmuFEc">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <a href="https://huggingface.co/spaces/leonett/error-ela">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Open in Hugging Face" width="150"/>
   </a>
 </p>
 
