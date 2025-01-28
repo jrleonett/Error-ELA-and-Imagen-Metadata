@@ -3,20 +3,11 @@
 ![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
 ![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
 ![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 Este programa es una herramienta de computación forense diseñado para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza la técnica de Error Level Analysis (ELA) para detectar áreas de una imagen de formatos `.JPG` o `.PNG` que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
 
 Este programa fué desarrollado por **José R. Leonett** para los peritos forenses digitales, analistas forenses o cualquier persona interesada en verificar la autenticidad de imágenes digitales.
-
-![image](https://drive.google.com/uc?export=view&id=1Zw_phPfCXatYYoEQS9CRYWPFB48fxTBT)
-
-<p align="center">
-  <a href="https://colab.research.google.com/drive/19Xdff7WpNvjNQfAcYEv6u-wI28pzBNk7#scrollTo=m-lBAEqvbRUA&line=1&uniqifier=1">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
-</p>
 
 ----
 
@@ -39,11 +30,6 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 **03.- Verificación de manipulación:**
 * Analiza si la imagen ha sido manipulada o alterada en función de los metadatos y el ELA.
 * Proporciona razones específicas si se detecta manipulación.
-
-**04.- Análisis de información en pantalla (COLAB):**
-* Todos los metadatos y el análisis de manipulación.
-* La imagen original.
-* La imagen con el análisis de ELA.
 
 # **Interfaz gráfica con Gradio en huggingface**
 - Interfaz amigable para cargar y analizar imágenes.
@@ -77,11 +63,6 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 **Resultados:**
 * Los resultados del análisis se mostrarán directamente en la interfaz de Gradio.
 * También puedes acceder a los resultados a través de los enlaces públicos generados por Gradio y ngrok.
-
-**El archivo ZIP para Colab incluirá:**
-   * Un archivo de texto con los metadatos y el análisis de manipulación.
-   * La imagen original analizada.
-   * La imagen con análisis de ELA.
 
 ---
 # Cómo citar este trabajo.
