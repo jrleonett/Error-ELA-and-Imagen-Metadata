@@ -7,6 +7,16 @@
 
 Este programa es una herramienta de computación forense diseñado para analizar imágenes en busca de evidencia de manipulación o edición. Utiliza la técnica de Error Level Analysis (ELA) para detectar áreas de una imagen de formatos `.JPG` o `.PNG` que han sido modificadas o alteradas. Además, realiza un análisis exhaustivo de los metadatos de la imagen, incluyendo la fecha de creación, la última modificación y el software utilizado para editarla.
 
+<p align="center">
+  <img src="https://github.com/jrleonett/Error-ELA-and-Imagen-Metadata/blob/main/huggifaces.png"/>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/leonett/error-ela">
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Open in Hugging Face" width="150"/>
+  </a>
+</p>
+
 Este programa fué desarrollado por **José R. Leonett** para los peritos forenses digitales, analistas forenses o cualquier persona interesada en verificar la autenticidad de imágenes digitales.
 
 ----
@@ -36,16 +46,6 @@ Este programa fué desarrollado por **José R. Leonett** para los peritos forens
 - Muestra los resultados del análisis de ELA (Error Level Analysis) y metadatos en tiempo real.
 - Disponible en Hugging Face Spaces para uso público.
 - 👉 **Pruébalo aquí**: [https://huggingface.co/spaces/leonett/error-ela](https://huggingface.co/spaces/leonett/error-ela)
-
-<p align="center">
-  <img src="https://github.com/jrleonett/Error-ELA-and-Imagen-Metadata/blob/main/huggifaces.png"/>
-</p>
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/leonett/error-ela">
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Open in Hugging Face" width="150"/>
-  </a>
-</p>
 
 ---
 # Cómo usar el programa
